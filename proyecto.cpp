@@ -8,11 +8,11 @@ void func() {
 
 int main() {
 
-  int var = 300;
+  int variable1 = 200;
 
   cout << "Hola a todos de parte de Yolanda" << endl;
-  
-  cout << "La variable"<< endl;
 
+  cout << "La variable 1 = " << variable1 << endl;
+  
   return 0;
 }
